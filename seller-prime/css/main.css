@@ -1,0 +1,162 @@
+html,
+body {
+  height: 100%;
+  overflow-x: hidden;
+  font-size: 1em;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif; }
+
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit; }
+
+.no-padding {
+  padding-left: 0 !important;
+  padding-right: 0 !important; }
+
+a {
+  color: #706f6f; }
+
+a:hover {
+  color: #c1c1c1; }
+
+:focus,
+a:focus {
+  outline: 0; }
+
+a:hover,
+a:active,
+a:focus {
+  text-decoration: none; }
+
+p {
+  margin: 0; }
+
+.h2,
+h2 {
+  font-size: 25px;
+  font-weight: 500; }
+
+.mainHeading {
+  padding: 45px 0px;
+  background-color: #5e83ff;
+  margin-bottom: 30px; }
+
+#webinarjuly .mainHeading .bannerText {
+  margin-top: 90px;
+  position: relative; }
+
+#webinarjuly .mainHeading .bannerText .centerText h2 {
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+  font-size: 50px;
+  font-family: 'Montserrat', sans-serif; }
+
+.leftHandImg img {
+  padding-top: 50%; }
+
+.rigthLight img {
+  position: absolute;
+  top: -120px; }
+
+.everHeading h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #414042;
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif; }
+
+#towSection {
+  margin-bottom: 30px;
+  margin-top: 40px; }
+
+#towSection .bodyleft p {
+  text-align: justify;
+  margin-bottom: 20px;
+  color: #414042; }
+
+.bodyright .Join {
+  display: flex; }
+
+.bodyright .Join .jointhe {
+  flex: 1; }
+
+.bodyright .Join .jointhe p {
+  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px; }
+
+.bodyright .Join .seats {
+  flex: 1; }
+
+.bodyright .Join .seats p {
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+  text-align: center;
+  background-color: #8dc63f;
+  color: #fff;
+  padding: 10px 10px 10px 10px;
+  width: 160px;
+  margin-left: 70px;
+  margin-top: -14px;
+  cursor: default; }
+
+.bodyright .Join .seats p:hover {
+  background-color: #a6d861; }
+
+.formjoin .btn-default {
+  color: #fff;
+  background-color: #f7941d;
+  border-color: #f7941d;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  padding: 8px 32px; }
+
+.formjoin {
+  margin-top: 23px;
+  margin-bottom: 20px; }
+
+.formjoin .btn-default:hover {
+  background-color: #f98800;
+  border-color: #f98800; }
+
+.form-control {
+  height: 44px;
+  padding: 10px 12px;
+  border-radius: 0px; }
+
+.btnBox {
+  display: flex; }
+
+.btnBtn {
+  flex: 1; }
+
+.durationSec p {
+  text-align: right;
+  font-size: 14px;
+  color: #939598;
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+  margin-top: 12px; }
+
+.rightVid {
+  height: 220px;
+  background-color: #e6e7e8;
+  display: flex; }
+
+.rightVid img {
+  margin: auto; }
+
+.findProdct p {
+  color: #06bbe5;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #06bbe5; }
+
+/*# sourceMappingURL=main.css.map */
